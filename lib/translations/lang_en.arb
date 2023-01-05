@@ -1,0 +1,14 @@
+{
+    "appName" : "Calendar",
+    "@appName":{
+        "description" :"Application Name"
+    },
+    "addEvent": "Add Event",
+    "add" : "Add",
+    "eventHintText": "Event Name",
+    "events" : "Events",
+    "noEvents": "No events have been added for this date.",
+    "delete": "Delete",
+    "selectCalendarType" : "Calendar Type",
+    "emptyEvent" : "Event name can't be empty"
+}
